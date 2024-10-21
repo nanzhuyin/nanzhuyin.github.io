@@ -1,7 +1,7 @@
 # Site settings
 title: YNZ Zone
 SEOTitle: 阴南竹的空间 | YNZ Zone
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: nanzhuyin@ln.hk
 description: "好好学习，天天向上！"
 keyword: "YNZ, YNZ Zone, 阴南竹的空间, yinnanzhu, 阴南竹, iOS, Apple, iPhone"
@@ -18,12 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     
-zhihu_username:     
 github_username:    nanzhuyin
-facebook_username:  
-jianshu_username:   
-#twitter_username:   
+
 
 
 
